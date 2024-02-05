@@ -7,3 +7,22 @@ ul{
 img{
   width: 400px;
 }
+.site-header{
+  text-align: center;
+}
+.recipe-link{
+  color:black;
+  text-decoration: none;
+  font-style: normal;
+  font-size: 18px;
+  margin-bottom: 8px;
+  display: block;
+  
+}
+.recipe-container{
+  margin: 10px;
+}
+.preview-recipe-img{
+  width:200px;
+  height: auto;
+}
